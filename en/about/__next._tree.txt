@@ -1,0 +1,6 @@
+:HL["/afzar-azma-preview/_next/static/css/9d86924e2c14f9fa.css","style"]
+:HL["/afzar-azma-preview/_next/static/css/9b981fb38c1f5d73.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"about","h":96,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","favicon.ico","robots.txt","sitemap.xml"]},"h":112,"c":"$Q2"}]]
+0:{"b":"hKbyUHFUVDZdeR5C72qkP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
